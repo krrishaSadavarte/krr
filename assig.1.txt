@@ -1,0 +1,95 @@
+** ASSIGNMENT 1 **
+
+• Are the HTML tags and elements the same thing?
+--> no they both are not same because in <html> : html is element and the whole 
+<html> is a tag.
+
+
+• What are tags and attributes in HTML?
+--> A word written with angle brackets is known as tag,whereares the additional
+ funtionality in tag is called attributes in HTML.
+
+
+• What are void elements in HTML?
+-->in html there are some tags which are not need to closed they are 
+self-closing tags and they are called as void elements.
+
+
+• What are HTML Entities?
+-->An HTML entity is a piece of text that begins with an ampersand and ends
+ with a semicolon. 
+
+
+• What are different types of lists in HTML? • What is the ‘class’ attribute in
+HTML?
+--> there are 3 types of lists in html:ordered lists,unordered list,description list.
+-->The class attribute specifies one or more classnames for an element. The class attribute
+ is mostly used to point to a class in a style sheet.
+
+
+• What is the difference between the ‘id’ attribute and the ‘class’ attribute of
+HTML elements?
+--> A Class name can be used by multiple HTML elements, while an ID name must only be used by
+ one HTML element within the page.
+
+
+• What are the various formatting tags in HTML?
+--><b> - Bold text.
+<strong> - Important text.
+<i> - Italic text.
+<em> - Emphasized text.
+<mark> - Marked text.
+<small> - Smaller text etc....
+
+
+• How is Cell Padding different from Cell Spacing?
+--> cell padding create space between the text and the cell and cell spacing creates space between the two cells.
+
+
+• How can we club two or more rows or columns into a single row or column in
+an HTML table?
+--> we can use rowspan to club two or more rows and colspan to club two or more columns.
+
+
+• What is the difference between a block-level element and an inline element?
+-->block-level element take its space in output and inline change don't take any space in output.
+
+
+• How to create a Hyperlink in HTML?
+--> with the use of anchor tag <a></a> we can create a Hyperlink in html.
+
+
+• What is the use of an iframe tag?
+--> we can give a location/map on web page .
+
+
+• What is the use of a span tag? Explain with example?
+--> we use span tag because it gives us freedom to write as we want in output.for eg:<span>hi</span>
+output: hi.
+
+
+• How to insert a picture into a background image of a web page?
+-->
+
+
+• How are active links different from normal links?
+-->nomal link is blue or purple but active link is red and underlined.
+
+
+• What are the different tags to separate sections of text?
+--> break tag <br> and <p></p> tag are used to separate sections of text.
+
+
+• What is SVG?
+-->scalable vector graphics used to add graphics in html structure . we can aslo apply style attribute and it is
+newly updated in html5.
+
+
+• What is difference between HTML and XHTML?
+-->HTML is the standard markup language for creating web pages, while XHTML is a stricter and more standardized version of HTML.
+
+
+• What are logical and physical tags in HTML? 
+--> the logical tag is <strong> </strong> tag. When we enclose the text in the strong tag, it tells the browser that enclosed text
+ is more important than other texts. Physical tags : Physical tags are used to tell the browser how to display the text enclosed 
+ in the physical tag.
